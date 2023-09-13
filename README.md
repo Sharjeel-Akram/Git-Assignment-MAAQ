@@ -1,4 +1,4 @@
-![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/6cf9d505-3c40-44a5-9d96-c0673668c235)![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/989062b8-9c15-456f-9a7d-f110218f2073)# Git-Assignment-MAAQ
+# Git-Assignment-MAAQ
 **GitFlow Process:**<br>
 Gitflow is a widely recognized and popular branching model and workflow that provides a structured approach to managing the development of software projects. Gitflow is built on top of the Git version control system, which allows multiple developers to work on a project concurrently while maintaining a clean and organized codebase. This workflow defines a set of branching strategies and guidelines, making it easier for teams to manage different aspects of software development, such as feature development, bug fixes, and release management. <br>
 
@@ -20,6 +20,7 @@ Gitflow is a widely recognized and popular branching model and workflow that pro
 14. Now I have both branches pushed to a remote repository for pull requests. ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/2b28d520-6fbc-4957-9543-1b32ea2dfd8a)
 15. I have switched to the development branch and merged both branches, feature-branch1 and feature-branch2, into the development branch.![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/2e7b15a1-3930-4083-9d4d-596b07b5a518)
 16. Now I will also push that development branch to my remote repository. ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/69cf9bc2-44ac-4f9a-afc3-6d8c31e5ada5)
+17. ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/6cf9d505-3c40-44a5-9d96-c0673668c235)![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/989062b8-9c15-456f-9a7d-f110218f2073)
 
  
 
