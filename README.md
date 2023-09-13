@@ -22,7 +22,8 @@ Gitflow is a widely recognized and popular branching model and workflow that pro
 16. Now I will also push that development branch to my remote repository. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/69cf9bc2-44ac-4f9a-afc3-6d8c31e5ada5)
 17. I merged the development branch into the master branch, added a third task in master branch and then pushed the master branch to remote. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/5e35d412-609e-4311-9688-eefb6b1e2146) <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/22eac573-7660-44ee-a48e-2bfb32efd2e7)
 18. The below picture shows the log of my activity. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/8ad8e2c1-aa92-4e52-a7f8-2f0ce6f6170d)
-19. At the end, I have merged the master branch with the main branch and pushed it to my remote repository. <br>
+19. At the end, I have merged the master branch with the main branch and pushed it to my remote repository. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/3e6f8581-9603-471f-af6c-0ea8ba39cf8e)
+
 
 
 
