@@ -16,11 +16,15 @@ Gitflow is a widely recognized and popular branching model and workflow that pro
 10. Now that I have added them in the stagging area, these still need to be committed.<br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/ce1c764c-dad6-469b-b152-b0864af5fd5b)
 11. Now the first task has been committed to feature-branch1. <br>![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/32f3080f-3fe4-48f1-b2b2-797a1fe68f66)
 12. Now I have to do the same task for feature-branch2, which means that I have worked on two separate branches, and then I will merge them into a single branch.
-13. The below picture shows the complete work done in feature-branch2.<br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/03c46e79-3c3e-4823-9b9a-7029edac09ce)
+13. The below picture shows the complete work done in feature-branch2. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/03c46e79-3c3e-4823-9b9a-7029edac09ce)
 14. Now I have both branches pushed to a remote repository for pull requests. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/2b28d520-6fbc-4957-9543-1b32ea2dfd8a)
 15. I have switched to the development branch and merged both branches, feature-branch1 and feature-branch2, into the development branch. <br>![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/2e7b15a1-3930-4083-9d4d-596b07b5a518)
 16. Now I will also push that development branch to my remote repository. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/69cf9bc2-44ac-4f9a-afc3-6d8c31e5ada5)
-17. 
+17. I merged the development branch into the master branch, added a third task in master branch and then pushed the master branch to remote. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/5e35d412-609e-4311-9688-eefb6b1e2146) <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/22eac573-7660-44ee-a48e-2bfb32efd2e7)
+18. The below picture shows the log of my activity. <br> ![image](https://github.com/Sharjeel-Akram/Git-Assignment-MAAQ/assets/65490295/8ad8e2c1-aa92-4e52-a7f8-2f0ce6f6170d)
+19. At the end, I have merged the master branch with the main branch and pushed it to my remote repository. <br>
+
+
 
  
 
